@@ -308,7 +308,7 @@ For several of these data sources you might find that the API calls take a prett
 Suppose you have a bunch of Project Gutenberg texts in a list called `charles_dickens_texts`. You can save this list to a file and reload it later using the `pickle` module in Python. Here's how:
 
 ```python
-import pickle
+import pickle 
 
 # Save data to a file (will be part of your data fetching script)
 
